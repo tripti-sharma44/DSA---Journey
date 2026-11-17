@@ -14,3 +14,12 @@ int main(){
 
     return 0;
 }
+
+/* Output:
+   Enter value of a:
+   4
+   Enter value of b:
+   4
+   Sum of a and b is:
+   8
+*/
